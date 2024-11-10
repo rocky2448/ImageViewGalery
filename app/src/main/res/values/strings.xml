@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageViewGalery</string>
+    <string name="button_start">Начать просмотр</string>
+    <string name="text_view_title">Вас приветствует альбом любимых фотографий</string>
+    <string name="button_next">Следующее фото</string>
+    <string name="text_view_finish">Спасибо за просмотр! До свидания</string>
+    <string name="button_finish">Закрыть программу</string>
+</resources>
